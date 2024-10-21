@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:p_house/pages/home/widgets/styled_text.dart';
-import 'package:p_house/pages/home/widgets/materiales_disponibles.dart';
+import 'package:p_house/presentacion/widgets/styled_text.dart';
+import 'package:p_house/presentacion/widgets/materiales_disponibles.dart';
 
 class CenterContainer extends StatelessWidget {
   const CenterContainer({super.key});

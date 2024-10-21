@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:p_house/pages/home/widgets/custom_listview.dart';
+import 'package:p_house/presentacion/widgets/custom_listview.dart';
 
 class GradientContainer extends StatelessWidget {
-  final List<Color> colors;
+  final List<Color> colors; // Definimos un parámetro para el gradiente
 
   const GradientContainer({super.key, required this.colors});
 
