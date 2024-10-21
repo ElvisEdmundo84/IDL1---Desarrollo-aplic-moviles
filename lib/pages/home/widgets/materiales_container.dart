@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:p_house/pages/home/model/materiales_type.dart';
+import 'package:p_house2/pages/home/model/materiales_type.dart';
 
 class MaterialesContainer extends StatelessWidget {
   const MaterialesContainer(this.materiales, {super.key});

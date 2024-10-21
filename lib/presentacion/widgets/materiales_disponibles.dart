@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:p_house/pages/home/model/materiales_type.dart';
+import 'package:p_house2/pages/home/model/materiales_type.dart';
 
-import 'package:p_house/presentacion/widgets/materiales_container.dart';
+import 'package:p_house2/presentacion/widgets/materiales_container.dart';
 
 class MaterialesDisponibleContainer extends StatelessWidget {
   const MaterialesDisponibleContainer({super.key});

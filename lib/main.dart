@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:p_house/presentacion/pages/shopping_cart_page.dart'; 
+import 'package:p_house2/presentacion/pages/shopping_cart_page.dart'; 
 
 void main() => runApp(const MyApp());
 
